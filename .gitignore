@@ -1,0 +1,20 @@
+# Filetypes to ignore for snakemakeTutorial
+.*
+!/.gitignore
+*.bwa.benchmark.txt
+*.vcf
+*.svg
+*.fa
+*.fa.amb
+*.fa.ann
+*.fa.bwt
+*.fa.fai
+*.fa.pac
+*.fa.sa
+*.fastq
+*.vcf.log
+*.index.log
+*.sort.log
+*.log
+*.bam
+*.bam.bai
